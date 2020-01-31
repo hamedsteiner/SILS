@@ -5,11 +5,13 @@
 ![CUDA 10.0](https://img.shields.io/badge/cuda-10.0-DodgerBlue.svg?style=plastic)
 ![License CC BY-NC](https://img.shields.io/badge/license-CC_BY--NC-DodgerBlue.svg?style=plastic)
 
-<div align=center>  <img src="imgs/intro.png" alt="Introduction" width="600" align="bottom" />
+<div align=center>  <img src="imgs/intro.png" alt="Introduction" width="600" align="bottom" /> </div>
+
 
 **Picture:** *Examples of single image layer separation: reflection separation and intrinsic image decomposition.*
 
-  <div align=center>  <img src="./imgs/teaser.png" alt="Teaser image" width="600" align="center" />
+<div align=center>  <img src="./imgs/teaser.png" alt="Teaser image" width="600" align="center" /> </div>
+
 
 **Picture:** *(a) Illustrations of the shared information consistency and layer independence assumptions. (b) The overall framework of our unsupervised SILS method.*
 
